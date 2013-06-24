@@ -2,7 +2,7 @@
  "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/Heartspring/Exchange-Web-Services-for-PHP.git"
+            "url":  "https://github.com/sathees1kumar/php-ews.git"
         }
     ],
     "require-all": true
