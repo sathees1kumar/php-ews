@@ -1,6 +1,7 @@
 {
  "repositories": [
         {
+            "name": "ews/library",
             "type": "vcs",
             "url":  "https://github.com/sathees1kumar/php-ews.git"
         }
