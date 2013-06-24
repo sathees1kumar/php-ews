@@ -8,5 +8,5 @@
   "autoload": {
     "psr-0": { "ews\\library": "" }
   },
-  "target-dir": "ews/library",
+  "target-dir": "ews/library"
 }
