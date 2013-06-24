@@ -3,7 +3,7 @@
   "description": "checking of ews in symfony",
   "keywords": ["ews", "exchange"],
   "require": {
-    "php": ">=5.3.3",
+    "php": ">=5.3.3"
   },
   "autoload": {
     "psr-0": { "ews\\library": "" }
