@@ -6,7 +6,7 @@
     "php": ">=5.3.3"
   },
   "autoload": {
-    "classmap": ["/"]
+    "classmap": ["EWSType/"]
   },
   "target-dir": ""
 }
