@@ -1,13 +1,12 @@
 {
-    "config": {
-        "cache-files-ttl": 0
-    },
- "repositories": [
-        {
-            "name": "ews/library",
-            "type": "vcs",
-            "url":  "https://github.com/sathees1kumar/php-ews.git"
-        }
-    ],
-    "require-all": true
+  "name": "ews/library",
+  "description": "checking of ews in symfony",
+  "keywords": ["ews", "exchange"],
+  "require": {
+    "php": ">=5.3.3",
+  },
+  "autoload": {
+    "psr-0": { "ews\\library": "" }
+  },
+  "target-dir": "ews/library",
 }
