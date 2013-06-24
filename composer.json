@@ -1,0 +1,9 @@
+{
+ "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/Heartspring/Exchange-Web-Services-for-PHP.git"
+        }
+    ],
+    "require-all": true
+}
