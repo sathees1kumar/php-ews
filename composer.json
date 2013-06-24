@@ -1,4 +1,7 @@
 {
+    "config": {
+        "cache-files-ttl": 0
+    },
  "repositories": [
         {
             "name": "ews/library",
